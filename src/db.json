@@ -1,0 +1,78 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "publicationDate": "1997-06-26",
+      "details": "Harry Potter and the Philosopher's Stone is the first novel in the Harry Potter series written by J.K. Rowling. It follows the story of Harry Potter, a young wizard, as he begins his magical education at Hogwarts School of Witchcraft and Wizardry."
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "publicationDate": "1998-07-02",
+      "details": "Harry Potter and the Chamber of Secrets is the second novel in the Harry Potter series written by J.K. Rowling. It continues the story of Harry Potter's second year at Hogwarts School of Witchcraft and Wizardry, where mysterious events unfold."
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "author": "J.K. Rowling",
+      "publicationDate": "1999-07-08",
+      "details": "Harry Potter and the Prisoner of Azkaban is the third novel in the Harry Potter series written by J.K. Rowling. In this book, Harry Potter learns about Sirius Black, a dangerous wizard who has escaped from Azkaban, the wizard prison."
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter and the Goblet of Fire",
+      "author": "J.K. Rowling",
+      "publicationDate": "2000-07-08",
+      "details": "Harry Potter and the Goblet of Fire is the fourth novel in the Harry Potter series written by J.K. Rowling. It features the Triwizard Tournament, a magical competition held between the three largest wizarding schools."
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "author": "J.K. Rowling",
+      "publicationDate": "2003-06-21",
+      "details": "Harry Potter and the Order of the Phoenix is the fifth novel in the Harry Potter series written by J.K. Rowling. It follows Harry Potter's fifth year at Hogwarts School of Witchcraft and Wizardry as he confronts the growing threat of Lord Voldemort."
+    },
+    {
+      "id": 6,
+      "title": "The Lion King",
+      "author": "Justine Korman",
+      "publicationDate": "1994-06-15",
+      "details": "The Lion King is a Disney book adaptation of the animated film of the same name. It tells the story of Simba, a young lion prince who must reclaim his kingdom from his uncle Scar."
+    },
+    {
+      "id": 7,
+      "title": "Frozen",
+      "author": "Victoria Saxon",
+      "publicationDate": "2013-10-01",
+      "details": "Frozen is a Disney book adaptation of the animated film of the same name. It follows the story of Elsa, a princess with magical ice powers, and her sister Anna as they embark on a journey to save their kingdom from eternal winter."
+    },
+    {
+      "id": 8,
+      "title": "Moana",
+      "author": "Jessica Julius",
+      "publicationDate": "2016-11-22",
+      "details": "Moana is a Disney book adaptation of the animated film of the same name. It tells the adventurous tale of Moana, a young Polynesian princess, as she sets sail on a daring mission to save her people and discover her own identity."
+    },
+    {
+      "id": 9,
+      "title": "Toy Story",
+      "author": "Kiki Thorpe",
+      "publicationDate": "1995-11-22",
+      "details": "Toy Story is a Disney book adaptation of the animated film of the same name. It introduces the beloved characters Woody and Buzz Lightyear and explores their friendship and adventures in the world of toys."
+    },
+    {
+      "id": 10,
+      "title": "Cinderella",
+      "author": "RH Disney",
+      "publicationDate": "1950-02-15",
+      "details": "Cinderella is a Disney book adaptation of the classic fairy tale. It follows the story of Cinderella, a young girl mistreated by her stepmother and stepsisters, who finds her happily ever after with the help of her fairy godmother."
+    }
+  ]
+}
+
+
+
+
