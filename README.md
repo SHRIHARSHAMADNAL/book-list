@@ -3,7 +3,8 @@ Needs two terminals runnining
 
 1st Terminal 
 cd into src folder (where db.json is present ) of react app and run the following command to run the mock API
-cmd -  json-server --watch db.json --port 8000
+cmd -  "json-server --watch db.json --port 8000"
+If it is not working please install json-server globally and then run the above command
 
 2nd Terminal
 run the "npm start" for react app
